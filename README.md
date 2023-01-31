@@ -4,7 +4,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQEmMcPUnhufeQ/profile-displaybackgroundimage-shrink_350_1400/0/1672622780592?e=1680739200&v=beta&t=blsi5U3TvEcxG9tWqAZwTv4-f2TiGZDBx9biArJtVYk" /> 
 
 ## About Me
-I'm a software developer, designer, and data analyst/scientist. I enjoy learning more about how technology will impact the world and the tools behind creating these innovative techs. I also enjoy playing around with data, creating data visualizations, and designing apps and websites. I hope to be part of designing and building the next generation of tech in the near future.
+I'm a software developer, designer, and data analyst/scientist. I enjoy learning more about how technology will impact the world and the tools behind creating these innovative techs. I also enjoy playing around with data, creating data visualizations, and designing apps and websites. I hope to be part of designing and building the next generation of tech.
 
 ## Languages and Tools <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/115192350/215868309-e2c33dca-09bb-4fd8-95b6-bb27120ec919.png" /> 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
