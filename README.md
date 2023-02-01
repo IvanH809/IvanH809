@@ -1,5 +1,3 @@
-# Welcome!
-<br />
 
 <img src="https://media.licdn.com/dms/image/D5616AQEmMcPUnhufeQ/profile-displaybackgroundimage-shrink_350_1400/0/1672622780592?e=1680739200&v=beta&t=blsi5U3TvEcxG9tWqAZwTv4-f2TiGZDBx9biArJtVYk" /> 
 
